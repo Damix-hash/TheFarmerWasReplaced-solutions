@@ -1,4 +1,4 @@
-# Beginner loop, farms both grass and wood.
+# Beginner loop, farms wood only (forgot theres cooldown for the grass harvest)
 
 while True:
 	for i in range(get_world_size()):

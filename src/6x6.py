@@ -1,4 +1,4 @@
-# 5x5
+# 6x6
 # unlocked variables (finally)
 
 Carrot = Entities.Carrot
